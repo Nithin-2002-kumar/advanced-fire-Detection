@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.mp4
+*.wav
+*.mp3
+*.zip
+*.egg-info/
+.env
+model/
+logs/
+detection_logs/
