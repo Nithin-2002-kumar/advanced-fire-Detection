@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pillow
+matplotlib
+pygame
+opencv-python
+tk
